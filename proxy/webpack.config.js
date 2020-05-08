@@ -3,7 +3,7 @@ const SRC_DIR = '/mnt/c/Users/06089/Documents/HRATX48/review-proxy'
 const DIST_DIR = path.join(__dirname, './proxy/dist');
 
 module.exports = {
-  entry: [`${SRC_DIR}/product-display/src/index.js`, `${SRC_DIR}/review-component/src/index.js`],
+  entry: [/*`${SRC_DIR}/product-display/src/index.js`,*/ `${SRC_DIR}/review-component/src/index.js`],
   output: {
     filename: 'bundle.js',
     path: DIST_DIR
