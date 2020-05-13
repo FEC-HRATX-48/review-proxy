@@ -1,3 +1,3 @@
 [submodule "review-component"]
 	path = review-component
-	url = https://github.com/FEC-HRATX-48/review-component
+	url = https://github.com/FEC-HRATX-48/review-component.git review-component
